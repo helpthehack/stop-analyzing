@@ -3,7 +3,7 @@
 [![This is a Poppins project](https://raw.githubusercontent.com/bancodobrasil/poppins/master/badge-poppins.svg)](https://github.com/bancodobrasil/poppins)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-Stop Analyzing is a tool that uses Tinder-like interaction to help your customers make up their mind when choosing something, like a product of you e-commerce. This is a customizable tool that you can use in any site that uses any technology stack.
+Stop Analyzing is a tool that uses Tinder-like interaction to help your customers make up their mind when choosing something, like a product of your e-commerce. This is a customizable tool that you can use in any site that uses any technological stack.
 
 Here are some inspirations:
 
@@ -43,3 +43,7 @@ There are 3 projects you can contribute to:
 - [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
 Learn the GitHub workflow by contributing code in a fun simulation project
 - [Stop Analyzing Embed](https://github.com/bancodobrasil/stop-analyzing-embed): Stop Analyzing Embed is a web component of Stop Analyzing to be embedded on client websites.
+
+##Appreciation
+Welcome to all the contributors! Give suggestions and make changes to improve the quality of content. 
+All the best for Hactoberfest 2020.
